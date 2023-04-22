@@ -1,4 +1,4 @@
-# README
+# Climate Hackathon
 
 This repository contains code for a machine learning project. The project involves predicting a target condition based on a given dataset. The dataset is divided into a training dataset (`Training Dataset.csv`) and an evaluation dataset (`Evaluation Dataset.csv`).
 
