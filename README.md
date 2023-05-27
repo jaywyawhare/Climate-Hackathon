@@ -1,6 +1,6 @@
 # Climate Hackathon
 
-This repository contains code for a machine learning project. The project involves predicting a target condition based on a given dataset. The dataset is divided into a training dataset (`Training Dataset.csv`) and an evaluation dataset (`Evaluation Dataset.csv`).
+This repository contains code for a machine learning project. The project involves predicting a target condition based on a given dataset. The dataset is divided into a training dataset `Training Dataset.csv` and an evaluation dataset `Evaluation Dataset.csv`.
 
 ## Project Overview
 
@@ -40,3 +40,8 @@ The following dependencies are required to run the code:
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal or commercial purposes. Please refer to the LICENSE file for more details.
 
+## Hackathon Details
+
+- Hackathon Name: Hack For Climate Hackathon
+- Link: [Hack For Climate Hackathon](https://unstop.com/hackathons/hack-for-climate-hackathon-swanirvahan-2023-institute-of-chemical-technology-ict-mumbai-indianoil-odisha-camp-663542)
+- Kaggle Competition: [Hack For Climate Hackathon](https://www.kaggle.com/competitions/hack-for-climate-hackathon-bhuabaneswar-ict89534/overview)
